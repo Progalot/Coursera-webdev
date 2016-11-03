@@ -13,6 +13,7 @@
 	margin-top: 0px;
 	line-height: .60;
 	color: #fff;
+	margin-left: 20px;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
@@ -20,12 +21,11 @@
 }
 
 #nav-list {
-	text-align: center;
 	background-color: #9BC1BC;
 	margin-top: 0px;
 	margin-bottom: 0px;
-
 }
+
 #nav-list a {
 	color: #fff;
 }
@@ -34,21 +34,14 @@
 	background: #E6EBE0;
 }
 
-#content-menu {
-	background-color: #ED6A5A;
-	height: 1000px;
-}
-
-#content-menu h3 {
-	text-align: center;
-	margin-top: 5px;
-}
-
 #main-content {
-	margin: 20px;
-
+	margin: 30px;
 }
 
-h2 {
-	margin-top: 5px;
+div.col-md-4 div {
+	background: #ffd9b3;
+	padding: 1px 10px 1px;
+	margin-bottom: 20px;
 }
+
+
